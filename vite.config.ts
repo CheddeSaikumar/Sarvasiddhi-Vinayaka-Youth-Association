@@ -4,7 +4,6 @@ import { fileURLToPath, URL } from 'node:url';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Sarvasiddhi-Vinayaka-Youth-Association/',
   plugins: [react()],
   resolve: {
     alias: {
